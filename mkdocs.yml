@@ -1,0 +1,34 @@
+site_name: Manual do Sistema ARGUS - Quarentena
+theme:
+  name: material
+  language: pt-BR
+  features: 
+     - toc.integrate
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Alternar para modo escuro
+
+    - scheme: slate 
+      primary: deep purple
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Alternar para modo claro
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/PGJM-SPAI
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@MinisterioPublicoMilitar
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/ministeriopublicomilitar/
+  extra_css:
+  - style.css
+
+copyright: |
+  &copy; 2023 <a href="https://spai.mpm.mp.br"  target="_blank" rel="noopener">SPAI - PGJM</a>
