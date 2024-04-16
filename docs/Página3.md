@@ -1,9 +1,9 @@
 # Requisição <br>
 
 ![Página2](img/Requisições.png)<br>
-*Figura 9 - Requisições.* <br><br>
+*Figura 9 - Aba "Requisições".* <br><br>
 
-<p style="text-align: justify;">Nesta aba é possível visualizar todas as ---REQUISIÇÕES?--- de ---CCS?---. Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 10). </p>
+<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS. Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 10). </p>
 
 ![Página2](img/NumRequisição.png)<br>
 *Figura 10 - Acessar detalhes da requisição.* <br><br>

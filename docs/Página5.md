@@ -1,7 +1,7 @@
 # Atendimento
 
 ![Atendimento](img/Atendimento.png)<br>
-*Figura 20 - Atendimento.* <br><br>
+*Figura 20 - Aba "Atendimento".* <br><br>
 
 <p style="text-align: justify;">Nesta aba, encontram-se os procedimentos relacionados aos atendimentos dos bancos à determinação judicial. Os atendimentos são compostos das contas bancárias onde houve, eventualmente, a movimentação financeira objeto da análise. </p>
 
@@ -127,4 +127,9 @@ Basta clicar no botão "Utilizar Todos", localizado no final da tabela (Figura 3
 
 ![Mudando atendimentos para análise](img/ConfirmarTodos.png)<br>
 *Figura 40 - Mudando atendimentos para análise*. <br><br>
+
+<p style="text-align: justify;"> Por fim, é possível baixar os dados brutos ao fim do tratamento para disponibilização no PAI ou nos autos do processo (Figura 41). </p>
+
+![Baixando os dados brutos](img/BaixandoDadosBrutos.png)<br>
+*Figura 41 - Baixando os dados brutos*. <br><br>
 
