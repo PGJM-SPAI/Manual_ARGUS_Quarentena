@@ -3,7 +3,7 @@
 ![Página2](img/Requisições.png)<br>
 *Figura 9 - Aba "Requisições".* <br><br>
 
-<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS. Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 10). </p>
+<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (cadastro de clientes do sistema financeiro nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 10). </p>
 
 ![Página2](img/NumRequisição.png)<br>
 *Figura 10 - Acessar detalhes da requisição.* <br><br>
