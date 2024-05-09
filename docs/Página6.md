@@ -1,7 +1,7 @@
 # Investigados
 
-![Investigados](img/Investigados.png)<br>
-*Figura 42 - Aba "Investigados".* <br><br>
+![Aba "Investigados"](img/Investigados.png)<br>
+*Figura 41 - Aba "Investigados".* <br><br>
 
 <p style="text-align: justify;">Nesta aba é possível comparar as informações sobre qualificação dos investigados com aquelas provenientes do PAI, do Pedido de Afastamento de Sigilo Bancário (PQSB), da Decisão Judicial e do CCS/Bacen. </p>
 
@@ -26,8 +26,17 @@ Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já ex
 <li><strong>Detalhes: </strong> (Figura x) rol de contas relacionadas ao investigado segregadas por banco, nº de conta, tipo de conta, período de movimentação, quantidade de linhas, percentual de identificação de transações obrigatórias e situação da conta (compatível, excedente e pendente). </li>
 </ul>
 
-![Investigados](img/DetalhesContasRelacionadas.png)<br>
-*Figura 42 - Contas Relacionadas.* <br><br>
+![Contas Relacionadas](img/DetalhesContasRelacionadas.png)<br>
+*Figura 43 - Contas Relacionadas.* <br>
+
+<p style="text-align: justify"> Ainda em <u>Detalhes</u> (Contas Relacionadas), temos os seguintes botões (Figura 44): </p>
+<ul style="text-align: justify;">
+  <li><strong>Botão "Incluir no PAI":</strong> permite cadastrar uma pessoa que inicialmente não foi cadastrada no preenchimento do PAI. </li>
+  <li><strong>Botão "Excluir Investigado":</strong> permite excluir uma pessoa inicialmente cadastrada no PAI mas que teve o pedido de afastamento de sigilo dos seus dados indeferido pela autoridade judiciária ou permite excluir dados relativos à pessoa não cadastrada e que teve os seus dados indevidamente encaminhados via SIMBA. </li>
+</ul>
+
+![Botões "Incluir no PAI" e "Excluir Investigado"](img/BotõesDetalhes.png)<br>
+*Figura 44 - Botões "Incluir no PAI" e "Excluir Investigado".* <br>
 
 ## Pedido Incompleto
 
@@ -40,7 +49,7 @@ Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já ex
 
 ## Discrepâncias comuns
 <p style="text-align: justify;">As discrepâncias mais comuns de serem encontradas na Quarentena são: </p>
-<ol type="a">
+<ol type="a" style="text-align: justify;">
   <li>CPF/CNPJ incompatíveis com a Decisão; </li>
   <li>Dados bancários de filiais que não tiveram seu sigilo afastado; </li>
   <li>Contas vinculadas a pessoas investigadas e não investigadas (múltiplos vínculos); </li>

@@ -1,21 +1,21 @@
 # Iniciando o processo de quarentena<br>
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Para pesquisar um caso desejado, digite o N° do Caso no campo localizado no centro da página (Figura 6). </p>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Para pesquisar um caso desejado, digite o N° do Caso no campo localizado no centro da página (Figura 5). </p>
 
 ![Procurar casos](img/PesquisarCaso.png)<br>
-*Figura 6 - Procurar casos.* <br><br>
+*Figura 5 - Procurar casos.* <br><br>
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">2</span> Em seguida, clique em "Acessar Quarentena", no pedido desejado (Figura 7). </p>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">2</span> Em seguida, clique em "Acessar Quarentena", no pedido desejado (Figura 6). </p>
 
 ![Acessar Quarentena](img/AcessarQuarentena.png)<br>
-*Figura 7 - Acessar Quarentena.* <br>
+*Figura 6 - Acessar Quarentena.* <br>
 
 <div id="cabeçalho"></div>
 
 ## Cabeçalho 
 
 ![Cabeçalho](img/Cabeçalho.png)<br>
-*Figura 8 - Cabeçalho.* <br><br>
+*Figura 7 - Cabeçalho.* <br><br>
 
 <span style="background-color: #5F9EA0; border-radius: 4px; padding: 6px; color: #FFFFFF ">Itens do cabeçalho </span>
 <ul style="text-align: justify;" >
