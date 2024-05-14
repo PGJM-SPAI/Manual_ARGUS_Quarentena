@@ -23,7 +23,7 @@ Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já ex
 <li><strong>Compatíveis :</strong> contas efetivamente encaminhadas pelas instituições financeiras e compatíveis com os dados do CCS. </li>
 <li><strong>Excedentes: </strong>contas efetivamente encaminhadas pelas instituições financeiras e além do CCS. </li> 
 <li><strong>Pendentes: </strong>contas não encaminhadas pelas instituições financeiras e constantes do CCS. </li>
-<li><strong>Detalhes: </strong> (Figura x) rol de contas relacionadas ao investigado segregadas por banco, nº de conta, tipo de conta, período de movimentação, quantidade de linhas, percentual de identificação de transações obrigatórias e situação da conta (compatível, excedente e pendente). </li>
+<li><strong>Detalhes: </strong> (Figura 43) rol de contas relacionadas ao investigado segregadas por banco, nº de conta, tipo de conta, período de movimentação, quantidade de linhas, percentual de identificação de transações obrigatórias e situação da conta (compatível, excedente e pendente). </li>
 </ul>
 
 ![Contas Relacionadas](img/DetalhesContasRelacionadas.png)<br>
