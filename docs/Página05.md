@@ -5,7 +5,7 @@
 
 <p style="text-align: justify;">Nesta aba, encontram-se os procedimentos relacionados aos atendimentos dos bancos à determinação judicial. Os atendimentos são compostos das contas bancárias onde houve, eventualmente, a movimentação financeira objeto da análise. </p>
 
-<p style="text-align: justify;">Quando se observar o recebimento de mais de uma carga do mesmo banco, será necessário compará-las para exclusão de cargas duplicadas. Assim, após a chegada de nova carga, constatados dados duplicados, deve-se excluir uma delas, seguindo os seguintes passos: </p>
+<p style="text-align: justify;">Quando se observar o recebimento de mais de uma carga do mesmo banco, será necessário compará-las para exclusão de cargas duplicadas. Assim, após a chegada de nova carga, constatados dados duplicados, deve-se excluir uma delas, seguindo os seguintes passos: </p> 
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Clique na aba "Atendimentos". </p>
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">2</span> Organize as cargas por ordem de Banco (Figura 20). </p>
@@ -83,7 +83,6 @@ Um exemplo prático são os casos de saques indevidos em conta de ex-pensionista
 *Figura 32 - Página de Relatórios*. <br><br>
 
 <p style="text-align: justify;"> É possível visualizar os atendimentos selecionados e mudar os atendimentos escolhidos. Para alterar o atendimento, basta clicar no ícone <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="20" height="20" style="vertical-align: middle;" ><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M384 128c70.7 0 128 57.3 128 128s-57.3 128-128 128H192c-70.7 0-128-57.3-128-128s57.3-128 128-128H384zM576 256c0-106-86-192-192-192H192C86 64 0 150 0 256S86 448 192 448H384c106 0 192-86 192-192zM192 352a96 96 0 1 0 0-192 96 96 0 1 0 0 192z" fill="currentColor" d="m21.68 17.65l-7-14a3 3 0 0 0-5.36 0l-7 14a3 3 0 0 0 3.9 4.08l5.37-2.4a1.06 1.06 0 0 1 .82 0l5.37 2.4a3 3 0 0 0 3.9-4.08Zm-2 2a1 1 0 0 1-1.13.22l-5.37-2.39a3 3 0 0 0-2.44 0L5.41 19.9a1 1 0 0 1-1.3-1.35l7-14a1 1 0 0 1 1.78 0l7 14a1 1 0 0 1-.17 1.13Z"/></svg> (Figura 33). </p>
-
 
 ![Página de Relatórios](img/AlternarAtendimento.png)<br>
 *Figura 33 - Alternando Atendimentos*. <br><br>

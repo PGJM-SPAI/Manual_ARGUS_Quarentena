@@ -1,17 +1,17 @@
 # Transações Não Identificadas
 
 ![Aba "Transações Não Identificadas"](img/TransaçõesNãoIdentificadas.png)<br>
-*Figura 62 - Aba "Transações Não Identificadas".* <br><br>
+*Figura 66 - Aba "Transações Não Identificadas".* <br><br>
 
-<p style="text-align: justify;">Esta aba mostra as operações que deveriam ser obrigatoriamente identificadas quanto aos beneficiários ou depositantes. É possível realizar uma filtragem dos dados que serão apresentados na tabela para facilitar a análise (Figura 63). Basta selecionar os campos desejados e clicar no botão "Filtrar".</p>
+<p style="text-align: justify;">Esta aba mostra as operações que deveriam ser obrigatoriamente identificadas quanto aos beneficiários ou depositantes. É possível realizar uma filtragem dos dados que serão apresentados na tabela para facilitar a análise (Figura 67). Basta selecionar os campos desejados e clicar no botão "Filtrar".</p>
 
 ![Filtrar tabela](img/Filtro.png)<br>
-*Figura 63 - Filtrar tabela.* <br>
+*Figura 67 - Filtrar tabela.* <br>
 
-<p style="text-align: justify;">Os dados são dispostos em colunas na tabela (Figura 64).</p>
+<p style="text-align: justify;">Os dados são dispostos em colunas na tabela (Figura 68).</p>
 
 ![Tabela "Transações Não Identificadas"](img/TabelaTransaçõesNãoIdentificadas.png)<br>
-*Figura 64 - Tabela "Transações Não Identificadas".* <br><br>
+*Figura 68 - Tabela "Transações Não Identificadas".* <br><br>
 
 <p style="text-align: justify;"> O significado de cada coluna é o seguinte: </p>
 <ul style="text-align: justify;" >
@@ -41,7 +41,7 @@
 <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;">Botões </span>
 
 ![Botões](img/BotõesAbaTransações.png)<br>
-*Figura 65 - Botões.* <br>
+*Figura 69 - Botões.* <br>
 
 <p style="text-align: justify;">No final da tabela estão os botões "Exportar" e "Deletar", onde: </p>
 

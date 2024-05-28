@@ -45,7 +45,7 @@ Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já ex
 <ol type="a">
   <li>Se o Banco Central não foi intimado da decisão judicial para comunicar as instituições financeiras e remeter o CCS, é possível adicionar investigados ao pedido e sanear a petição indicando ao juiz a inclusão das novas pessoas;</li>
   <li>Se o Bacen já foi oficiado, cabe ao solicitante encerrar o pedido, tendo em vista o erro insanável, e abrir um novo pedido com o rol completo de pessoas investigadas.</li>
-</ol>
+</ol> 
 
 ## Discrepâncias comuns
 <p style="text-align: justify;">As discrepâncias mais comuns de serem encontradas na Quarentena são: </p>

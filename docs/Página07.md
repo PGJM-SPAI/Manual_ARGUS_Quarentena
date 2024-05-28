@@ -26,7 +26,7 @@
 
 ![Contas Relacionadas](img/BancosContato.png)<br>
 *Figura 47 -  Contato do responsável pela transmissão dos dados.* <br>
-
+ 
 <ul style="text-align: justify;" >
 <li><strong>Detalhes: </strong>lista de contas por investigado de determinada instituição financeira com informações sobre o CPF/CNPJ, nome, agência, número da conta, tipo de conta, percentual de identificação das operações, quantidade de linhas nos extratos, início e fim de movimentação e a situação (enviada, não enviada e excedente).  </li>
 </ul>
