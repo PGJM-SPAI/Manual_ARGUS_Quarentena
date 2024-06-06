@@ -3,7 +3,15 @@
 ![Página2](img/Requisições.png)<br>
 *Figura 8 - Aba "Requisições".* <br><br>
 
-<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (cadastro de clientes do sistema financeiro nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 9). </p>
+<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (cadastro de clientes do sistema financeiro nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. </p>
+
+## Fluxo
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Ligado/Desligado</span> Escrever <br><br>
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Completar Fluxo</span> Escrever <br><br>
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Reiniciar Fluxo</span> Escrever 
+
+## Detalhes da requisição 
+<p style="text-align: justify;">Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 9). </p>
 
 ![Página2](img/NumRequisição.png)<br>
 *Figura 9 - Acessar detalhes da requisição.* <br><br>
@@ -11,8 +19,9 @@
 <p style="text-align: justify;">A partir da expansão dos detalhes da requisição, é possível identificar as contas por bancos, utilizando a caixa de seleção (Figura 10). </p>
 
 ![Página2](img/ContasPorBancos.png)<br>
-*Figura 10 - Seleção de CCS por Bancos* <br><br>
+*Figura 10 - Seleção de CCS por Bancos* <br>
 
+## Descartar contas
 É possível excluir as contas desnecessárias uma por uma ou selecionando todas as contas de uma vez só (Figura 11):
 
 ![Página2](img/Excluir%20contas%20de%20banco.png)<br>

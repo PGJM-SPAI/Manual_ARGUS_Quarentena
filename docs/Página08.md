@@ -1,7 +1,7 @@
 # Conta
 
 ![Aba "Bancos"](img/AbaConta.png)<br>
-*Figura 48 - Aba "Conta"* <br><br>
+*Figura 48 - Aba "Conta"* <br>
 
 ## Tabela Bancos
 <p style="text-align: justify;">A aba "Contas" traz a tabela "Bancos" (Figura 49): </p>
@@ -10,7 +10,6 @@
 *Figura 49 - Tabela Bancos* <br>
 
 <p style="text-align: justify;">Esta tabela contêm as seguintes informações: </p>
-
 <ul style="text-align: justify;" >
 <li><strong>Nº Banco: </strong>  código que a instituição financeira se identifica junto ao Banco Central.  </li>
 <li><strong>Nome:</strong> nome do banco. </li>

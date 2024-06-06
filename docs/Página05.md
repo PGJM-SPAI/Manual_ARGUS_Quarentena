@@ -21,7 +21,7 @@
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">4</span> Para comparar os conteúdos dos lotes de contas (cargas bancárias), basta clicar em "Comparar" (Figura 22). </p>
 
 ![Botão Comparar](img/BotãoComparar.png)<br>
-*Figura 22 - Botão Comparar*. <br><br>
+*Figura 22 - Botão Comparar*. <br>
 
 ## Exclusão de dados
 <p style="text-align: justify;">Ao comparar, haverá algumas possibilidades de exclusão de dados: <br></p>
@@ -67,7 +67,7 @@
 <p style="text-align: justify;"> No decorrer da quarentena é possível ainda conferir a quantidade de cargas bancárias (os atendimentos) realizadas por todos os bancos. O ícone (Figura 30) encontra-se no canto superior direito da aba "Atendimentos'. </p>
 
 ![Total de atendimentos](img/QtdAtendimentos.png)<br>
-*Figura 30 - Total de atendimentos*. <br><br>
+*Figura 30 - Total de atendimentos*. <br>
 
 ## Relatório SIMBA
 <p style="text-align: justify;"> O usuário pode acessar os 7 Relatórios Financeiros do Simba ao clicar no ícone (Figura 31): </p>
