@@ -15,7 +15,7 @@
 ![Página1](img/NovasCredenciais.jpg)<br>
 *Figura 3 - E-mail com novas credenciais de acesso*. <br><br>
 
-<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">4</span> Retorne ao ARGUS, insira a senha temporária enviada no e-mail e configure uma nova senha seguindo as regras de composição (Figura 4). </p>
+<p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">3</span> Retorne ao ARGUS, insira a senha temporária enviada no e-mail e configure uma nova senha seguindo as regras de composição (Figura 4). </p>
 
 ![Página1](img/CriarNovaSenha.png)<br>
 *Figura 4 - Página "Criar nova senha".* <br><br>

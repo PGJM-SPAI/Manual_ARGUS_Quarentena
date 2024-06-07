@@ -8,7 +8,7 @@
 ![Lista de histórico](img/Histórico.jpg)<br>
 *Figura 53 - Lista de histórico.* <br><br>
 
-<p style="text-align: justify;">Além disso, também é possível cadastrar um novo histório do caso, clicando no botão Cadastrar (Figura 54).  </p>
+<p style="text-align: justify;">Além disso, também é possível cadastrar um novo histórico do caso, clicando no botão Cadastrar (Figura 54).  </p>
 
 ![Botão de cadastrar histórico](img/HistóricoCadastrar.jpg)<br>
 *Figura 54 - Botão de cadastrar histórico.* <br><br>
