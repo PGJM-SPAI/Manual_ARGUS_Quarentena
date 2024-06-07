@@ -12,6 +12,7 @@
 
 ![Tabela "Transações Não Identificadas"](img/TabelaTransaçõesNãoIdentificadas.png)<br>
 *Figura 68 - Tabela "Transações Não Identificadas".* <br><br>
+<span style="color: red;">Tabela sofrerá atualização.</span>
 
 <p style="text-align: justify;"> O significado de cada coluna é o seguinte: </p>
 <ul style="text-align: justify;" >
@@ -21,16 +22,15 @@
 <li><strong>Conta: </strong>refere-se ao número único atribuído à conta bancária. </li>
 <li><strong>Tipo: </strong> indica o tipo de conta bancária (conta corrente, conta poupança, conta investimento entre outros).</li>
 <li><strong>Bc OD: </strong> indica o banco de origem ou destino da operação, ou seja, o banco ou do beneficiário ou do depositante daquela transação. </li> 
-<li><strong>Ag OD: </strong> indica a agencia do banco de origem ou destino da operação, ou seja, a agencia ou do beneficiário ou do depositante daquela transação.</li>
+<li><strong>Ag OD: </strong> indica a agência do banco de origem ou destino da operação, ou seja, a agência ou do beneficiário ou do depositante daquela transação.</li>
 <li><strong>Conta OD: </strong> indica a conta de origem ou destino da operação, ou seja, a conta ou do beneficiário ou do depositante daquela transação. </li>
 <li><strong>Tipo OD: </strong> tipo da conta de origem ou destino da operação (pagamento, corrente, poupança, investimento...).</li>
-<li><strong>CPF/CNPJ: </strong> nº de cadastro que identifica a pessoa junto a receita federal. </li>
+<li><strong>CPF/CNPJ: </strong> nº de cadastro que identifica a pessoa junto à receita federal. </li>
 <li><strong>Pessoa:</strong>  nome do beneficiário ou depositante da operação financeira. </li>
 <li><strong>Valor:</strong> valor da operação financeira.  </li>
 <li><strong>Data:</strong> data da operação financeira. </li>
 <li><strong>Nat.:</strong> natureza contábil da operação, se é débito (D) ou crédito (C).   </li>
-<li><strong>OD:</strong>   </li>
-<li><strong>Ext.:</strong> número da linha do extrato onde está registrada a operação. </li>
+<li><strong>Linha Mov:</strong> número da linha do extrato onde está registrada a operação.</li>
 <li><strong>Lançamento:</strong> título dado à operação. </li>
 <li><strong>Desc.:</strong> detalhamento do lançamento.  </li>
 <li><strong>Obs.:</strong> informações adicionais sobre a operação.  </li>

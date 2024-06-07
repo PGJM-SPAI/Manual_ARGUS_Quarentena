@@ -6,9 +6,9 @@
 <p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (cadastro de clientes do sistema financeiro nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. </p>
 
 ## Fluxo
-<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Ligado/Desligado</span> Escrever <br><br>
-<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Completar Fluxo</span> Escrever <br><br>
-<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Reiniciar Fluxo</span> Escrever 
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Ligado/Desligado</span> Botão que indica o status atual da consulta automática ao Cadastro do Banco Central. <br><br>
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Completar Fluxo</span> Botão que finaliza a consulta automática ao Cadastro do Banco Central. <br><br>
+<span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Reiniciar Fluxo</span> Botão que recomeça a consulta automática ao Cadastro do Banco Central.
 
 ## Detalhes da requisição 
 <p style="text-align: justify;">Para acessar os detalhes de cada requisição, basta clicar no número da requisição (Figura 9). </p>

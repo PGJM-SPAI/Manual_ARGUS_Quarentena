@@ -9,7 +9,7 @@
 *Figura 62 - Atendimentos Fora do Período.* <br>
 
 ## Descartar atendimentos
-É possível descartar os atendimentos fora do período um por um ou selecionando todos os atendimentos de uma vez só (Figura x):
+<p style="text-align: justify;">É possível descartar os atendimentos fora do período um por um ou selecionando todos os atendimentos de uma vez só (Figura x): </p>
 
 ![Página2](img/DescartarAtendimentoForaDoPeriodo.png)<br>
 *Figura x - Descartar atendimentos fora do período.* <br>
