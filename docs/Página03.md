@@ -48,4 +48,4 @@
 Realizado o descarte, os CCS descartados ficam registrados e podem ser recuperadas a qualquer tempo (Figura 16):
 
 ![](img/CCSDescartados.png)<br>
-*Figura 16 - CCS descartados vs. Recuperação.* <br><br>
+*Figura 16 - CCS descartados vs. Recuperação.* <br>
