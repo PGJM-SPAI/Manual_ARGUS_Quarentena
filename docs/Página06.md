@@ -1,18 +1,18 @@
 # Investigados
 
-![Aba "Investigados"](img/Investigados.png)<br>
-*Figura 41 - Aba "Investigados".* <br><br>
+![](img/Investigados.png)<br>
+*Figura 45 - Aba "Investigados".* <br><br>
 
 <p style="text-align: justify;">Nesta aba é possível comparar as informações sobre qualificação dos investigados com aquelas provenientes do PAI, do Pedido de Afastamento de Sigilo Bancário (PQSB), da Decisão Judicial e do CCS/Bacen. </p>
 
-Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já explicado [capítulo do cabeçalho](Página2.md/#cabeçalho). 
+Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já explicado [capítulo do cabeçalho](Página02.md/#cabeçalho). 
 
 <p style="text-align: justify;">Por esta aba, verifica-se a quantidade de investigados cadastrados no PAI em comparação ao Pedido de Afastamento de Sigilo Bancário (PQSB) e à decisão judicial.</p>
 
 ## Tabela Investigados
 
-![Tabela Investigados](img/TabelaInvestigados.png)<br>
-*Figura 42 - Tabela "Investigados".* <br>
+![](img/TabelaInvestigados.png)<br>
+*Figura 46 - Tabela "Investigados".* <br>
 
 <p style="text-align: justify;">Os dados são dispostos em colunas. O significado de cada coluna é o seguinte: </p>
 <ul style="text-align: justify;" >
@@ -26,17 +26,17 @@ Para isso, é preciso baixar os documentos jurídicos no botão CCS, como já ex
 <li><strong>Detalhes: </strong> (Figura 43) rol de contas relacionadas ao investigado segregadas por banco, nº de conta, tipo de conta, período de movimentação, quantidade de linhas, percentual de identificação de transações obrigatórias e situação da conta (compatível, excedente e pendente). </li>
 </ul>
 
-![Contas Relacionadas](img/DetalhesContasRelacionadas.png)<br>
-*Figura 43 - Contas Relacionadas.* <br>
+![](img/DetalhesContasRelacionadas.png)<br>
+*Figura 47 - Contas Relacionadas.* <br>
 
-<p style="text-align: justify"> Ainda em <u>Detalhes</u> (Contas Relacionadas), temos os seguintes botões (Figura 44): </p>
+<p style="text-align: justify"> Ainda em <u>Detalhes</u> (Contas Relacionadas), temos os seguintes botões (Figura 48): </p>
 <ul style="text-align: justify;">
   <li><strong>Botão "Incluir no PAI":</strong> permite cadastrar uma pessoa que inicialmente não foi cadastrada no preenchimento do PAI. </li>
   <li><strong>Botão "Excluir Investigado":</strong> permite excluir uma pessoa inicialmente cadastrada no PAI mas que teve o pedido de afastamento de sigilo dos seus dados indeferido pela autoridade judiciária ou permite excluir dados relativos à pessoa não cadastrada e que teve os seus dados indevidamente encaminhados via SIMBA. </li>
 </ul>
 
-![Botões "Incluir no PAI" e "Excluir Investigado"](img/BotõesDetalhes.png)<br>
-*Figura 44 - Botões "Incluir no PAI" e "Excluir Investigado".* <br>
+![](img/BotõesDetalhes.png)<br>
+*Figura 48 - Botões "Incluir no PAI" e "Excluir Investigado".* <br>
 
 ## Pedido Incompleto
 

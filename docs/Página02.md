@@ -2,29 +2,29 @@
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Para pesquisar um caso desejado, digite o N° do Caso no campo localizado no centro da página (Figura 5). </p>
 
-![Procurar casos](img/PesquisarCaso.png)<br>
+![](img/PesquisarCaso.png)<br>
 *Figura 5 - Procurar casos.* <br><br>
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">2</span> Em seguida, clique em "Acessar Quarentena", no pedido desejado (Figura 6). </p>
 
-![Acessar Quarentena](img/AcessarQuarentena.png)<br>
+![](img/AcessarQuarentena.png)<br>
 *Figura 6 - Acessar Quarentena.* <br>
 
 <div id="cabeçalho"></div>
 
 ## Cabeçalho 
 
-![Cabeçalho](img/Cabeçalho.png)<br>
+![](img/Cabeçalho.png)<br>
 *Figura 7 - Cabeçalho.* <br><br>
 
 <span style="background-color: #5F9EA0; border-radius: 4px; padding: 6px; color: #FFFFFF ">Itens do cabeçalho </span>
 <ul style="text-align: justify;" >
     <li><strong>Título:</strong> nome ilustrativo da investigação que facilita a identificação do seu objeto.</li>
-    <li><strong>Status: </strong> andamento do caso dentro da linha de produção do relatório pericial. O status pode assumir os seguintes tipos: "Análise", "Pendente", "Concluído", "Encerrado", "Quarentena" ou "Novo". 
+    <li><strong>Status: </strong> andamento do caso dentro da linha de produção do relatório de análise. O status pode assumir os seguintes tipos: "Análise", "Pendente", "Concluído", "Encerrado", "Quarentena" ou "Novo". 
     <li><strong>Período:</strong> intervalo definido no cadastro do pedido que limita os termos iniciais e finais da investigação. </li>
     <li><strong>Data do pedido:</strong> momento em que o pedido foi elaborado pelo demandante. </li>
     <li><strong>Lotação:</strong> procuradoria ou auditoria de origem do procedimento investigatório. </li>
-    <li><strong>Solicitante:</strong> demandante originário que cadastrou o PAI / ou escrever "o primeiro demandante que cadastrou o pedido". </li>
+    <li><strong>Solicitante:</strong> demandante que cadastrou o PAI. </li>
 </ul>
 </p>
 
