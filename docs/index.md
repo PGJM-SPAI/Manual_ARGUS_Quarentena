@@ -14,9 +14,9 @@
 
 <span style="background-color: #FFFFFF; border-radius: 4px; padding: 5px; color: #000000; border: 1px solid #000000;"> Vantagens do ARGUS </span><br>
 <ul style="text-align: justify;" >
-<li><strong>Segurança e Precisão:</strong> Processamento rápido e seguro, essencial para manter a confiabilidade das investigações. </li>
-<li><strong>Experiência Comprovada: </strong> Sucesso comprovado em Laboratórios de Tecnologia contra Lavagem de Dinheiro, parte da Rede-Lab/DRCI/MJSP. </li>
-<li><strong>Combate à Corrupção:</strong> Alinhado com a Estratégia Nacional de Combate à Corrupção e Lavagem de Ativos (ENCCLA), coordenada pelo Ministério da Justiça.</li>
+<li><strong>Segurança e Precisão:</strong> processamento rápido e seguro, essencial para manter a confiabilidade das investigações. </li>
+<li><strong>Experiência Comprovada: </strong> sucesso comprovado em Laboratórios de Tecnologia contra Lavagem de Dinheiro, parte da Rede-Lab/DRCI/MJSP. </li>
+<li><strong>Combate à Corrupção:</strong> alinhado com a Estratégia Nacional de Combate à Corrupção e Lavagem de Ativos (ENCCLA), coordenada pelo Ministério da Justiça.</li>
 </ul>
 
 <p style="text-align: justify;">Esta terceira edição do Manual do Quarentenista reafirma o compromisso da SPAI com o desenvolvimento e a disseminação de conhecimento para enfrentar a criminalidade complexa. O Módulo Quarentena do ARGUS é uma ferramenta indispensável para órgãos de combate à corrupção, garantindo que a validação de dados bancários seja realizada de forma eficiente, segura e confiável. Explore mais sobre como o Sistema ARGUS pode ajudar na sua missão de combate à criminalidade! </p>

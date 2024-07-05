@@ -10,16 +10,18 @@
 
 <p style="text-align: justify;">O significado de cada coluna é o seguinte: </p>
 <ul style="text-align: justify;" >
-<li><strong>Atd.:</strong> número identificador da transação.</li>
+<li><strong>Atd.:</strong> identificador do lote de contas da qual aquela conta faz parte.</li>
 <li><strong>Nº Banco:</strong> número identificador do banco no sistema financeiro. </li>
 <li><strong>Banco:</strong> nome do banco. </li>
 <li><strong>Agência:</strong> agência do banco.</li> 
 <li><strong>Conta:</strong> refere-se ao número único atribuído à conta bancária.</li>
 <li><strong>Tipo:</strong> indica o tipo de conta bancária (conta corrente, conta poupança, conta investimento entre outros).</li>
-<li>Início Mov. e Fim Mov.: são colunas que mostram o intervalo de efetiva movimentação nas contas investigadas, conforme os extratos bancários.</li>
-<li>Atendimento Início e Atendimento Fim: são colunas que mostram os intervalos mínimo e máximo cadastrados nos atendimentos pelos bancos.</li>
-<li>Caso Início e Caso Fim: mostram início e fim do período cadastrado pelo demandante como objeto de análise.</li>
-<li>CCS Início e CCS Fim: mostram início e fim do período cadastrado pela perspectiva do Banco Central (CCS).</li>
+<li><strong>Início Mov. e Fim Mov.:</strong> são colunas que mostram o intervalo de efetiva movimentação nas contas investigadas, conforme os extratos bancários.</li>
+    <ul>
+        <li style="margin-left: 40px;"><strong>Atendimento Início e Atendimento Fim:</strong> são colunas que mostram os intervalos mínimo e máximo cadastrados nos atendimentos pelos bancos.</li>
+        <li style="margin-left: 40px;"><strong>Caso Início e Caso Fim: </strong>mostram início e fim do período cadastrado pelo demandante como objeto de análise.</li>
+    </ul>    
+<li><strong>CCS Início e CCS Fim:</strong> mostram início e fim do período cadastrado pela perspectiva do Banco Central (CCS).</li>
 </ul>
 
 ## Descartar contas

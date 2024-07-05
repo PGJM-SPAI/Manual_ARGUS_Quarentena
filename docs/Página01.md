@@ -1,6 +1,6 @@
 # Primeiro acesso / Esqueci minha senha<br>
 
-<p style="text-align: justify;">A partir de um computador <strong>conectado à rede interna do Ministério Público Militar</strong>, digite em seu navegador (browser) o seguinte endereço: <a style="color: #2094f3" href="https://pai.mpm.mp.br/">https://argus.mpm.mp.br/</a></p><br>
+<p style="text-align: justify;">A partir de um computador <strong>conectado à rede interna do Ministério Público Militar</strong>, digite em seu navegador <em>(browser)</em> o seguinte endereço: <a style="color: #2094f3" href="https://pai.mpm.mp.br/">https://argus.mpm.mp.br/</a></p><br>
 
 <p style="text-align: justify;"><span style="background-color: #c9ebff; border-radius: 5px; padding: 7px; color: #000000; font-weight: bold; ">1</span> Preencha o campo “Usuário” com seu login (Exemplo: roberto.silva) e clique no link “Esqueceu sua senha?” (Figura 1). Em seguida, preencha o campo “E-mail” na página “Redefinir senha” (Figura 2) e clique em “Enviar pedido”. </p>
 

@@ -3,7 +3,7 @@
 ![](img/Requisições.png)<br>
 *Figura 8 - Aba "Requisições".* <br><br>
 
-<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (cadastro de clientes do sistema financeiro nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. </p>
+<p style="text-align: justify;">Nesta aba é possível visualizar todas as requisições de CCS (Cadastro de Clientes do Sistema Financeiro Nacional). CCS é a base de dados de todos os clientes do sistema financeiro brasileiro que envolvam relacionamento com instituições financeiras reguladas pelo Banco Central. Essa base é mantida pelo Banco Central e alimentada, obrigatoriamente, pelas instituições financeiras. </p>
 
 ## Fluxo
 <span style="background-color: #1b6ec2; border-radius: 4px; padding: 6px; color: #FFFFFF ">Ligado/Desligado</span> Botão que indica o status atual da consulta automática ao Cadastro do Banco Central. <br><br>
@@ -22,12 +22,12 @@
 *Figura 10 - Seleção de CCS por Bancos* <br>
 
 ## Descartar contas
-É possível excluir as contas desnecessárias uma por uma ou selecionando todas as contas de uma vez só (Figura 11):
+É possível excluir as contas desnecessárias uma por uma ou selecionar todas as contas de uma vez só (Figura 11):
 
 ![](img/Excluir%20contas%20de%20banco.png)<br>
 *Figura 11 - Excluir conta de Bancos* <br><br>
 
-<p style="text-align: justify;">Ao clicar em deletar, uma janela será aberta com um campo de justificativa da exclusão - o registro é relevante quando o quarentenista, após algum tempo, quiser recuperar os dados ou saber a causa do descarte (Figura 12). </p>
+<p style="text-align: justify;">Ao clicar em deletar, uma janela abrirá um campo de justificativa da exclusão - o registro é relevante quando o quarentenista, após algum tempo, quiser recuperar os dados ou saber a causa do descarte (Figura 12). </p>
 
 ![](img/JustificarExclusao.png)<br>
 *Figura 12 - Justificar exclusão de conta.* <br><br>

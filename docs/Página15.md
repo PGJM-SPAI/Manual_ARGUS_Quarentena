@@ -3,7 +3,7 @@
 ![](img/TransaçõesNãoIdentificadas.png)<br>
 *Figura 80 - Aba "Transações Não Identificadas".* <br><br>
 
-<p style="text-align: justify;">Esta aba mostra as operações que deveriam ser obrigatoriamente identificadas quanto aos beneficiários ou depositantes. É possível realizar uma filtragem dos dados que serão apresentados na tabela para facilitar a análise (Figura 81). Basta selecionar os campos desejados e clicar no botão "Filtrar".</p>
+<p style="text-align: justify;">Esta aba mostra as operações que deveriam ser obrigatoriamente identificadas quanto aos beneficiários ou depositantes. É possível realizar uma filtragem dos dados para facilitar a cobrança dos dados e o seu tratamento (Figura 81). Basta selecionar os campos desejados e clicar no botão "Filtrar".</p>
 
 ![](img/Filtro.png)<br>
 *Figura 81 - Filtrar tabela.* <br>
@@ -15,7 +15,7 @@
 
 <p style="text-align: justify;"> O significado de cada coluna é o seguinte: </p>
 <ul style="text-align: justify;" >
-<li><strong>Atd.:</strong> número identificador da transação.</li>
+<li><strong>Atd.:</strong> identificador do lote de contas da qual aquela conta faz parte.</li>
 <li><strong>Bc.:</strong> número identificador do banco no sistema financeiro. </li>
 <li><strong>Ag.: </strong> agência do banco.</li>
 <li><strong>Conta: </strong>refere-se ao número único atribuído à conta bancária. </li>
